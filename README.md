@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashasvee Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React Js, Express Js, Typescript**
+- 🌱 I’m currently learning **Angular, Android Studio**
 
-- 💬 Ask me about **HTML,CSS, JS, React Js**
+- 💬 Ask me about **HTML,CSS, JS, React Js, Typescript Java , MySQL**
 
 - 📫 How to reach me **yash08rai08@gamil.com**
 
